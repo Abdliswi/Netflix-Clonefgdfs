@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Abdliswi/Netflix-Clone#readme",
   "dependencies": {
+    "axios": "^0.26.0",
     "bootstrap": "^5.1.3",
     "react": "^17.0.2",
     "react-bootstrap": "^2.2.0",

@@ -1,3 +1,17 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import React from "react";
 import Movie from "../Movie/movie";
 import ModalMovie from "../ModalMovie/modalMovie";
